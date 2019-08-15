@@ -1,0 +1,11 @@
+D:\Projects\RefactoringToPatterns\Patterns\obj\Debug\netcoreapp2.1\Patterns.csprojAssemblyReference.cache
+D:\Projects\RefactoringToPatterns\Patterns\obj\Debug\netcoreapp2.1\Patterns.csproj.CoreCompileInputs.cache
+D:\Projects\RefactoringToPatterns\Patterns\obj\Debug\netcoreapp2.1\Patterns.AssemblyInfoInputs.cache
+D:\Projects\RefactoringToPatterns\Patterns\obj\Debug\netcoreapp2.1\Patterns.AssemblyInfo.cs
+D:\Projects\RefactoringToPatterns\Patterns\bin\Debug\netcoreapp2.1\Patterns.deps.json
+D:\Projects\RefactoringToPatterns\Patterns\bin\Debug\netcoreapp2.1\Patterns.runtimeconfig.json
+D:\Projects\RefactoringToPatterns\Patterns\bin\Debug\netcoreapp2.1\Patterns.runtimeconfig.dev.json
+D:\Projects\RefactoringToPatterns\Patterns\bin\Debug\netcoreapp2.1\Patterns.dll
+D:\Projects\RefactoringToPatterns\Patterns\bin\Debug\netcoreapp2.1\Patterns.pdb
+D:\Projects\RefactoringToPatterns\Patterns\obj\Debug\netcoreapp2.1\Patterns.dll
+D:\Projects\RefactoringToPatterns\Patterns\obj\Debug\netcoreapp2.1\Patterns.pdb

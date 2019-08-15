@@ -1,0 +1,17 @@
+d:\Projects\RefactoringToPatterns\PatternsTest\obj\Debug\netcoreapp2.1\PatternsTest.csprojAssemblyReference.cache
+d:\Projects\RefactoringToPatterns\PatternsTest\obj\Debug\netcoreapp2.1\PatternsTest.csproj.CoreCompileInputs.cache
+d:\Projects\RefactoringToPatterns\PatternsTest\obj\Debug\netcoreapp2.1\PatternsTest.AssemblyInfoInputs.cache
+d:\Projects\RefactoringToPatterns\PatternsTest\obj\Debug\netcoreapp2.1\PatternsTest.AssemblyInfo.cs
+D:\Projects\RefactoringToPatterns\PatternsTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Projects\RefactoringToPatterns\PatternsTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Projects\RefactoringToPatterns\PatternsTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\Projects\RefactoringToPatterns\PatternsTest\bin\Debug\netcoreapp2.1\PatternsTest.deps.json
+D:\Projects\RefactoringToPatterns\PatternsTest\bin\Debug\netcoreapp2.1\PatternsTest.runtimeconfig.json
+D:\Projects\RefactoringToPatterns\PatternsTest\bin\Debug\netcoreapp2.1\PatternsTest.runtimeconfig.dev.json
+D:\Projects\RefactoringToPatterns\PatternsTest\bin\Debug\netcoreapp2.1\PatternsTest.dll
+D:\Projects\RefactoringToPatterns\PatternsTest\bin\Debug\netcoreapp2.1\PatternsTest.pdb
+D:\Projects\RefactoringToPatterns\PatternsTest\bin\Debug\netcoreapp2.1\Patterns.dll
+D:\Projects\RefactoringToPatterns\PatternsTest\bin\Debug\netcoreapp2.1\Patterns.pdb
+D:\Projects\RefactoringToPatterns\PatternsTest\obj\Debug\netcoreapp2.1\PatternsTest.csproj.CopyComplete
+D:\Projects\RefactoringToPatterns\PatternsTest\obj\Debug\netcoreapp2.1\PatternsTest.dll
+D:\Projects\RefactoringToPatterns\PatternsTest\obj\Debug\netcoreapp2.1\PatternsTest.pdb
