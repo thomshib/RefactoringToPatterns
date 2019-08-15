@@ -5874,11 +5874,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Projects\\RefactoringToPatterns\\PatternsTest\\PatternsTest.csproj",
+      "projectUniqueName": "D:\\Projects\\RefactoringToPatterns\\PatternsTest\\PatternsTest.csproj",
       "projectName": "PatternsTest",
-      "projectPath": "d:\\Projects\\RefactoringToPatterns\\PatternsTest\\PatternsTest.csproj",
+      "projectPath": "D:\\Projects\\RefactoringToPatterns\\PatternsTest\\PatternsTest.csproj",
       "packagesPath": "C:\\Users\\shibu\\.nuget\\packages\\",
-      "outputPath": "d:\\Projects\\RefactoringToPatterns\\PatternsTest\\obj\\",
+      "outputPath": "D:\\Projects\\RefactoringToPatterns\\PatternsTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5897,8 +5897,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "d:\\Projects\\RefactoringToPatterns\\Patterns\\Patterns.csproj": {
-              "projectPath": "d:\\Projects\\RefactoringToPatterns\\Patterns\\Patterns.csproj"
+            "D:\\Projects\\RefactoringToPatterns\\Patterns\\Patterns.csproj": {
+              "projectPath": "D:\\Projects\\RefactoringToPatterns\\Patterns\\Patterns.csproj"
             }
           }
         }
