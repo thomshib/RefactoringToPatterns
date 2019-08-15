@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\RefactoringToPatterns\\Patterns\\Patterns.csproj": {}
+    "d:\\Projects\\RefactoringToPatterns\\Patterns\\Patterns.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\RefactoringToPatterns\\Patterns\\Patterns.csproj": {
+    "d:\\Projects\\RefactoringToPatterns\\Patterns\\Patterns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\RefactoringToPatterns\\Patterns\\Patterns.csproj",
+        "projectUniqueName": "d:\\Projects\\RefactoringToPatterns\\Patterns\\Patterns.csproj",
         "projectName": "Patterns",
-        "projectPath": "D:\\Projects\\RefactoringToPatterns\\Patterns\\Patterns.csproj",
+        "projectPath": "d:\\Projects\\RefactoringToPatterns\\Patterns\\Patterns.csproj",
         "packagesPath": "C:\\Users\\shibu\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\RefactoringToPatterns\\Patterns\\obj\\",
+        "outputPath": "d:\\Projects\\RefactoringToPatterns\\Patterns\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

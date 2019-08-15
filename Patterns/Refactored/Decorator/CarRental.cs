@@ -1,16 +1,26 @@
 using System;
 
-namespace Patterns.UnRefactored.Decorator{
-    
+namespace Patterns.Refactored.Decorator{
+    public interface IRental
+    {
+        float CalculatePrice();
+        int GetDaysRented();
+        Model GetModel();
+        float GetFuelConsumed();
+        
+        void SetFuelConsumed(float amount);
+        //void SetInsuranceRate(float rate);
+        //void SetRefuelPrice(float pricePerGallon);
+    }
 
-    public class CarRental 
+    public class CarRental : IRental
     {
         protected float fuelConsumed;
         protected int days;
         protected Model model;
 
-        protected float insuranceRate;
-        protected bool hasInsurance;
+        //protected float insuranceRate;
+        //protected bool hasInsurance;
         protected float refuelPrice;
         protected bool hasRefuelOnReturn;
 
@@ -18,18 +28,20 @@ namespace Patterns.UnRefactored.Decorator{
         {
             days = rentalDays;
             this.model = model;
-            hasInsurance = false;
+            //hasInsurance = false;
             hasRefuelOnReturn = false;
         }
 
         public float CalculatePrice()
         {
             float price = model.Price * days;
+            /*
             if (hasInsurance)
             {
                 price += CalculateInsurance();
 
             }
+            */
             if (hasRefuelOnReturn)
             {
                 price += CalculateRefuelPrice();
@@ -59,11 +71,19 @@ namespace Patterns.UnRefactored.Decorator{
             return fuelConsumed;
         }
 
+
+        /*
         public void SetInsuranceRate(float rate)
         {
             insuranceRate = rate;
             hasInsurance = true;
         }
+
+        private float CalculateInsurance()
+        {
+            return GetDaysRented() * insuranceRate;
+        }
+        */
 
         public void SetRefuelPrice(float pricePerGallon)
         {
@@ -75,10 +95,7 @@ namespace Patterns.UnRefactored.Decorator{
             return (GetModel().FuelCapacity - GetFuelConsumed()) * refuelPrice;
         }
 
-        private float CalculateInsurance()
-        {
-            return GetDaysRented() * insuranceRate;
-        }
+        
     }
 
 }
