@@ -1,5 +1,4 @@
 d:\Projects\RefactoringToPatterns\PatternsTest\obj\Debug\netcoreapp2.1\PatternsTest.csprojAssemblyReference.cache
-d:\Projects\RefactoringToPatterns\PatternsTest\obj\Debug\netcoreapp2.1\PatternsTest.csproj.CoreCompileInputs.cache
 d:\Projects\RefactoringToPatterns\PatternsTest\obj\Debug\netcoreapp2.1\PatternsTest.AssemblyInfoInputs.cache
 d:\Projects\RefactoringToPatterns\PatternsTest\obj\Debug\netcoreapp2.1\PatternsTest.AssemblyInfo.cs
 D:\Projects\RefactoringToPatterns\PatternsTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
